@@ -10,9 +10,8 @@ Hey there! I'm Shayan Junaid, a passionate coder and tech enthusiast. My journey
 
 #### 🌐 Technologies & Tools
 
-- **Languages**: [List of programming languages you're proficient in]
-- **Frameworks**: [List of frameworks you specialize in]
-- **Tools**: [IDEs, version control, etc.]
+- **Languages**: HTML CSS JAVASCRIPT 
+- **Frameworks**: BOOTSTRAP
 
 #### 📈 My GitHub Stats
 
