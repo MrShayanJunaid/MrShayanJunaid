@@ -13,20 +13,10 @@ Hey there! I'm Shayan Junaid, a passionate coder and tech enthusiast. My journey
 - **Languages**: HTML CSS JAVASCRIPT 
 - **Frameworks**: BOOTSTRAP
 
-#### 📈 My GitHub Stats
-
-![Your GitHub stats](link-to-your-github-stats-image)
-
-#### 🌟 Featured Projects
-
-- [Project 1]: Brief description and link.
-- [Project 2]: Brief description and link.
-- ...
 
 #### 📫 Let's Connect!
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
-- **Portfolio**: [Link to your portfolio or personal website]
+- **LinkedIn**: [Shayan Junaid]
+- Insta: [mrgentleman_shani]
 
 Feel free to explore my repositories, and don't hesitate to reach out. Happy coding! 🚀
