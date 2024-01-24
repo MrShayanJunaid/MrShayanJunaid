@@ -10,7 +10,7 @@ Hey there! I'm Shayan Junaid, a passionate coder and tech enthusiast. My journey
 
 #### 🌐 Technologies & Tools
 
-- **Languages**: HTML CSS JAVASCRIPT 
+- **Languages**: HTML CSS JAVASCRIPT XML PHP
 - **Frameworks**: BOOTSTRAP
 
 
@@ -18,5 +18,6 @@ Hey there! I'm Shayan Junaid, a passionate coder and tech enthusiast. My journey
 
 - **LinkedIn**: [Shayan Junaid]
 - Insta: [mrgentleman_shani]
+- My Portfolio [https://shayanjunaidportfolio.netlify.app/]
 
 Feel free to explore my repositories, and don't hesitate to reach out. Happy coding! 🚀
